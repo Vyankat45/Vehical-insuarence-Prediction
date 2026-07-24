@@ -1,5 +1,0 @@
-vyankatrathod28_db_user
-S72cXl3QRveOaGIB
-
-mongodb+srv://vyankatrathod28_db_user:<db_password>@cluster0.jyozsvn.mongodb.net/?appName=Cluster0
-
